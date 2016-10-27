@@ -1,4 +1,4 @@
-![avatar](https://raw.githubusercontent.com/RuanAzevedo/vagas/master/mundi_avatar.png)
+![avatar](https://raw.githubusercontent.com/mundipagg/vagas/master/mundi_avatar.png)
 
 # MundiPagg - Dev Vagas
 
