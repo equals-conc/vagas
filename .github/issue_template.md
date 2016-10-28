@@ -14,6 +14,10 @@ Escritório, Centro - Rio de Janeiro
 - trabalhe de bermuda e chinelo
 - ...
 
+## Contratação
+
+CLT a combinar
+
 ## Requisitos
 
 **Obrigatórios:**
