@@ -1,3 +1,5 @@
+<img src="http://checkoutstaging.mundipaggone.com/HotSite/V1/img/meetmundi.png" alt="MundiPagg" width="120" align="right" vspace="15" hspace="0"/>
+
 ## Descrição da vaga
 
 Fale um pouco sobre a vaga aqui, quais tecnologias estarão envolvidas no projeto, etc.
