@@ -14,7 +14,7 @@ Crie uma vaga clicando [aqui](https://github.com/mundipagg/vagas/issues/new)!
 
 Exemplo: `[Rio de Janeiro] Desenvolvedor C#`
 
-Adicione _labels_ contendo o nível de experiência desejada e a forma de contração.
+Adicione _labels_ contendo o nível de experiência desejada e a forma de contratação.
 
 #### Importante
 
