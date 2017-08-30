@@ -1,4 +1,4 @@
-![avatar](https://raw.githubusercontent.com/equals-conc/vagas/master/mundi_avatar.png)
+![avatar](https://raw.githubusercontent.com/equals-conc/vagas/master/equals.jpg)
 
 # Equals - Gestão Financeira Inteligente
 ## Vagas para desenvolvedores
