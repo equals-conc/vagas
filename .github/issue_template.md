@@ -1,19 +1,19 @@
-<img src="http://checkoutstaging.mundipaggone.com/HotSite/V1/img/meetmundi.png" alt="MundiPagg" width="120" align="right" vspace="15" hspace="0"/>
+<img src="http://i.imgur.com/ZVqkGeH.jpg" alt="Equals" width="120" align="right" vspace="15" hspace="0"/>
 
 ## Descrição da vaga
 
-Fale um pouco sobre a vaga aqui, quais tecnologias estarão envolvidas no projeto, etc.
+Fale um pouco sobre a vaga, quais tecnologias são requeridas, etc.
 
 ## Local
 
-Escritório, Centro - Rio de Janeiro
+Escritório, Centro - Lavras/MG
 
 ## Benefícios
 
-- horário flexível
-- video games
-- snackbar dentro do escritório
-- trabalhe de bermuda e chinelo
+- Horário flexível
+- Video games
+- Snackbar dentro do escritório
+- Trabalhe de bermuda e chinelo
 - ...
 
 ## Contratação
@@ -23,17 +23,17 @@ CLT a combinar
 ## Requisitos
 
 **Obrigatórios:**
-- Pelo menos com 1 ano de experiência com Python
-- Conhecimentos em Django
+- Pelo menos com 1 ano de experiência com Javascript
+- Conhecimentos em Java
 
 **Desejáveis:**
-- conhecimentos em Python3
-- curso na NASA
-- gostar de Star Wars
+- Conhecimentos em 
+- Curso na NASA
+- Gostar de Star Wars
 - Superman nas horas vagas
 
 **Diferenciais:**
-- projetos opensource
+- Projetos opensource
 
 ## Nossa empresa
 
