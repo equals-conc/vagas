@@ -5,7 +5,7 @@
 
 Espaço para a divulgação de vagas para desenvolvedores via **issues** do Github.
 
-Vagas disponíveis em https://github.com/mundipagg/vagas/issues
+Vagas disponíveis em https://github.com/equals-conc/vagas/issues
 As vagas que estão em Issues abertas estão realmente abertas, mesmo que tenham muitos meses, não foram esquecidas abertas.
 
 ### Cadastrando uma vaga
