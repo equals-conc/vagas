@@ -1,7 +1,12 @@
-![avatar](https://raw.githubusercontent.com/equals-conc/vagas/master/equals.jpg)
+
+<p align="center">
+  <a href="https://www.equals.com.br" target="_blank">
+    <img width="100%" src="https://raw.githubusercontent.com/equals-conc/vagas/master/equals.jpg">
+  </a>
+</p>
 
 # Equals - Gestão Financeira Inteligente
-## Vagas para desenvolvedores
+### Vagas para desenvolvedores
 
 Espaço para a divulgação de vagas para desenvolvedores via **issues** do Github.
 
