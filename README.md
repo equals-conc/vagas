@@ -1,6 +1,7 @@
-![avatar](https://raw.githubusercontent.com/mundipagg/vagas/master/mundi_avatar.png)
+![avatar](https://raw.githubusercontent.com/equals-conc/vagas/master/mundi_avatar.png)
 
-# MundiPagg - Dev Vagas
+# Equals - Gestão Financeira Inteligente
+## Vagas para desenvolvedores
 
 Espaço para a divulgação de vagas para desenvolvedores via **issues** do Github.
 
@@ -10,12 +11,12 @@ As vagas que estão em Issues abertas estão realmente abertas, mesmo que tenham
 ### Cadastrando uma vaga
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga.
-Crie uma vaga clicando [aqui](https://github.com/mundipagg/vagas/issues/new)!
+Crie uma vaga clicando [aqui](https://github.com/equals-conc/vagas/issues/new)!
 
-Exemplo: `[Rio de Janeiro] Desenvolvedor C#`
+Exemplo: `[Lavras] Desenvolvedor Javascript`
 
 Adicione _labels_ contendo o nível de experiência desejada e a forma de contratação.
 
 #### Importante
 
-Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue assim que possível quando ela estiver finalizada. 
+Para evitar que possíveis candidatos enviem currículos para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue assim que possível quando ela estiver finalizada. 
