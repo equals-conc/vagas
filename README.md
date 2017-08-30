@@ -5,13 +5,11 @@
   </a>
 </p>
 
-# Equals - Gestão Financeira Inteligente
 ### Vagas para desenvolvedores
 
 Espaço para a divulgação de vagas para desenvolvedores via **issues** do Github.
 
 Vagas disponíveis em https://github.com/equals-conc/vagas/issues
-As vagas que estão em Issues abertas estão realmente abertas, mesmo que tenham muitos meses, não foram esquecidas abertas.
 
 ### Cadastrando uma vaga
 
@@ -22,6 +20,6 @@ Exemplo: `[Lavras] Desenvolvedor Javascript`
 
 Adicione _labels_ contendo o nível de experiência desejada e a forma de contratação.
 
-#### Importante
+### Importante
 
 Para evitar que possíveis candidatos enviem currículos para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue assim que possível quando ela estiver finalizada. 
